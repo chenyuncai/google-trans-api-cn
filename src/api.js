@@ -3,7 +3,7 @@
 const querystring = require('querystring')
 
 const rp = require('request-promise')
-const token = require('google-translate-token')
+const token = require('google-translate-token-cn')
 const safeEval = require('safe-eval')
 
 const languages = require('./languages')

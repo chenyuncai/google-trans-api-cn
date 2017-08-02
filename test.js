@@ -1,0 +1,1 @@
+require('./index').transText('我', {to: 'en'}).then((res) => {console.log(res.text)})

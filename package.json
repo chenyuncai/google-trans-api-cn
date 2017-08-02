@@ -1,13 +1,13 @@
 {
   "name": "google-trans-api-cn",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "google translate api free for china",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "google-translate-token": "^1.0.0",
+    "google-translate-token-cn": "^1.0.0",
     "request": "^2.81.0",
     "request-promise": "^4.1.1",
     "safe-eval": "^0.3.0"
