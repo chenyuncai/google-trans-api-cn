@@ -1,0 +1,31 @@
+{
+  "name": "translate-api-cn",
+  "version": "0.0.2",
+  "description": "google translate api page for china",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "google-translate-token": "^1.0.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.1.1",
+    "safe-eval": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "google",
+    "translate",
+    "api",
+    "free"
+  ],
+  "author": "Ray Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
