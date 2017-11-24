@@ -53,6 +53,7 @@ const transText = (text, opts)=>{
 		url += '?' + querystring.stringify(data);
 		return rp.post(url, {
 			form: fromData,
+			proxy: opts.proxy || '',
 			encoding: 'UTF-8'
 		})
 	})
